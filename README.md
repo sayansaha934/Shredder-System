@@ -4,6 +4,5 @@ If worker cross the safety line, system will give an alert and if worker cross t
 
 # Requirements
 - python 3.6
-- Flask
 - Tensorflow==1.14
 - OpenCV
